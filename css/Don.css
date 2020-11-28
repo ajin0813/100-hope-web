@@ -1,0 +1,15 @@
+ body {
+     background: url(../images/beijing.jpg);
+ }
+
+ .nav-1 h1 {
+     font-size: 83px;
+     width: 1027px;
+     text-align: center;
+     margin: 87px auto;
+ }
+
+ .nav-2 {
+     height: 1311px;
+
+ }

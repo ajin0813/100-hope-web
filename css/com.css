@@ -1,0 +1,224 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+li {
+    list-style: none;
+
+}
+
+
+
+.top-box {
+    width: 1200px;
+    height: 141px;
+    margin: 0 auto;
+
+}
+
+.log {
+    float: left;
+    width: 102.5px;
+    height: 53px;
+    margin-top: 37px;
+}
+
+.log img {
+    width: 102.5px;
+
+}
+
+.nav {
+    width: 633px;
+    height: 141px;
+    margin: 0 auto;
+    line-height: 141px;
+}
+
+.nav li {
+    float: left;
+    margin-right: 45px;
+
+
+}
+
+.nav li a:hover {
+    color: #fe0000;
+}
+
+.nav li a {
+    display: inline-block;
+    font-size: 18px;
+    text-decoration: none;
+    color: #17000042;
+}
+
+.top-box-right {
+    float: right;
+    height: 64px;
+    width: 200px;
+    border: 2px red solid;
+    transition: all 1.2s;
+    border-radius: 10%;
+    margin-top: -102px;
+    cursor: pointer;
+}
+
+.top-box-right p {
+    width: 100px;
+    margin: 19px auto;
+
+}
+
+.top-box-right:hover {
+    color: red;
+}
+
+
+.top-box-right:hover {
+    border-radius: 50px;
+
+}
+
+
+
+.nav-2 {
+    width: 1314px;
+    height: 684px;
+    margin: 0 auto;
+
+}
+
+.nav-2 li {
+    float: left;
+    margin-right: 23px;
+    margin-bottom: 46px;
+    width: 415px;
+    height: 605px;
+    background-color: #ffffff;
+    transition: all 0.6s;
+}
+
+.nav-2 li .im {
+    width: 415px;
+}
+
+.nav-2 li:hover {
+    cursor: pointer;
+    box-shadow: -14px 10px 23px 6px #00000041;
+}
+
+.midd-box {
+    width: 383px;
+    height: 244px;
+    margin-top: 26px;
+    margin-left: 21px;
+}
+
+.midd-box .h4 {
+    font-size: 24px;
+    margin-bottom: 30px;
+}
+
+.midd-box .p {
+    font-size: 19px;
+    color: #5f5c5c;
+    margin-bottom: 56px;
+
+}
+
+.sp {
+    float: left;
+    color: #50454a;
+}
+
+.sp-1 {
+    float: right;
+    color: red;
+    border-bottom: 1px red solid;
+}
+
+.sp-1 img {
+    vertical-align: middle;
+}
+
+
+.boot {
+    position: relative;
+    background-color: #d02420;
+}
+
+
+.boot .boot-div {
+    width: 1427px;
+
+    height: 593px;
+    position: relative;
+    top: 71px;
+    margin: 0 auto;
+
+}
+
+.inp-big {
+    position: absolute;
+    right: 0;
+    top: 17px;
+}
+
+
+.boot .boot-ul {
+    width: 676px;
+    height: 500px;
+    float: left;
+}
+
+.boot .boot-ul li {
+    float: left;
+    margin-right: 27px;
+    margin-bottom: 19px;
+}
+
+.boot .tijiao {
+    background-color: #c2c2c2;
+    display: inline-block;
+    border: #c2c2c2 solid 1px;
+    box-shadow: inset rgba(255, 255, 255, 1.0) 0px 0px 2px 0px;
+    border-radius: 8px;
+    outline: none;
+    width: 256px;
+    height: 60px;
+    cursor: pointer;
+    color: #ffffff;
+    font-size: 25px;
+    transition: all 0.8s;
+    margin-left: 390px;
+}
+
+.tijiao:hover {
+    background: -webkit-linear-gradient(top, rgb(218, 67, 67), rgb(218, 67, 67) 50%, rgb(218, 67, 67) 50%, rgb(218, 67, 67) 100%);
+}
+
+.boot-h2 {
+    font-size: 47px;
+    margin-bottom: 12px;
+
+}
+
+.boot-p {
+    font-size: 22px;
+    margin-bottom: 35px;
+}
+
+.boot-h4 {
+    width: 654px;
+
+    background-color: #d02420;
+    color: #FFF;
+
+    font-size: 30px;
+    margin-bottom: 27px;
+}

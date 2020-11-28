@@ -1,0 +1,155 @@
+body {
+    background-color: #f9f6f0;
+}
+
+.content {
+    width: 1920px;
+    height: 1121px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.tu-1 {
+    float: left;
+    margin-top: 227px;
+    margin-left: 266px
+}
+
+.w1 {
+    color: #ffffff;
+    font-size: 69px;
+    width: 618px;
+    margin-bottom: 52px;
+}
+
+.R1 {
+    color: #ffffff;
+    font-size: 21px;
+    width: 574px;
+    margin-bottom: 75px;
+}
+
+.xnh {
+    display: inline-block;
+    margin-top: 420px;
+    float: right;
+}
+
+.con-box {
+    display: inline-block;
+    margin-top: 250px;
+    margin-left: 960px;
+}
+
+.C1 {
+    font-size: 52px;
+    width: 730px;
+}
+
+.L1 {
+    font-size: 14px;
+    width: 383px;
+    line-height: 25px;
+    float: left;
+}
+
+.T1 {
+    font-size: 14px;
+    width: 303px;
+    line-height: 25px;
+    float: right;
+    margin-right: 100px;
+}
+
+.tu-2 {
+    width: 885px;
+    height: 524px;
+}
+
+.an {
+    width: 198px;
+    height: 64px;
+    background-color: #ffffff;
+    text-align: center;
+    line-height: 64px;
+    color: #d0312d;
+    transition: all 0.7s;
+
+
+}
+
+.an:hover {
+    cursor: pointer;
+    width: 200px;
+    height: 65px;
+    box-shadow: -14px 10px 23px 6px #00000041;
+
+}
+
+.xnv-img {
+    position: absolute;
+    left: 0;
+    top: -63px;
+}
+
+
+
+.vide-1 {
+    display: inline-block;
+    margin-top: 184px;
+    margin-left: 162px;
+}
+
+.ab {
+    display: inline-block;
+    margin-top: 124px;
+    margin-left: 49px;
+    width: 741px;
+}
+
+.ab img {
+    width: 279px;
+    float: left;
+}
+
+.ab li {
+    list-style: none;
+    margin-bottom: 28px;
+    float: left;
+}
+
+.ab .p1 a,
+.ab .p2 a,
+.ab .h41 a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.ab .p1,
+.ab .p2,
+.ab .h41:hover {
+    cursor: pointer;
+}
+
+.p1 {
+    font-size: 20px;
+    margin-top: 14px;
+}
+
+.h41 {
+    font-size: 28px;
+    margin-top: 17px;
+    margin-bottom: 28px;
+}
+
+.p2 {
+    font-size: 19px;
+    border-bottom: 1px #fff solid;
+    display: inline-block;
+}
+
+.ab-wen {
+    margin-left: 309px;
+    width: 538px;
+    height: 205px;
+}
